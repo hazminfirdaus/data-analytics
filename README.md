@@ -22,3 +22,14 @@ ica/        # LaTeX slides, images, references for the ICA presentation
 eca/        # Jupyter notebooks, figures, models for the End Course Assessment
 scratch/    # Personal experiments and tests
 data/       # Local copy of dataset (ignored in git)
+```
+
+## 3. Note: Environment Setup
+### create virtual environment (example with venv)
+```
+python -m venv .venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
+```
+### install packages
+```
+pip install -r requirements.txt
