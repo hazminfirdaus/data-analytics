@@ -1,5 +1,7 @@
 # Data Analytics: OSMI Mental Health in Tech Survey
 
+A collaboration with [Vladyslav Zolotarevskyi](https://github.com/TokioBoy)
+
 This repository contains the coursework for the CIS4010-N **Data Analytics** module:
 - **ICA** – slide presentation (project plan)
 - **ECA** – full analysis of the OSMI Mental Health in Tech Survey
