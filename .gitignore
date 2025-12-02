@@ -1,6 +1,6 @@
 # ignore raw data
 data/
-*.csv
+# *.csv
 *.xlsx
 *.sav
 
